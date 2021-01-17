@@ -1,4 +1,4 @@
-# learndocker.online-course-notes
+# learndocker.online course notes
 **My personal notes of the amazing training program learndocker.online by Julian Fahrer.**
 
 ---------------------------------------------------
